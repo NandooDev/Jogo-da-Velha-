@@ -684,7 +684,7 @@ while comand < 2:
     data.update()
     data.place(x=120, y=470)
     #Criador
-    criado = Label(jogo, text="By: José Fernando e Jhonnata Virginio", bg=cor4, fg=cor5)
+    criado = Label(jogo, text="By: José Fernando", bg=cor4, fg=cor5)
     criado.place(x=235, y=470)
 
     
